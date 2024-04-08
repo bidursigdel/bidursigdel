@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bidursigdel&label=Profile%20views&color=0e75b6&style=flat" alt="bidursigdel" /> </p>
 
-- 🔭 I’m currently working on [Colors Of web3](https://www.colorsofweb3.com/)
+- 🔭 I’m currently working on [Colors Of web3](https://www.dwic.ae/)
 
 - 🌱 I’m currently learning **AI and ML**
 
