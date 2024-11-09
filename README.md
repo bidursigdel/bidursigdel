@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bidursigdel&label=Profile%20views&color=0e75b6&style=flat" alt="bidursigdel" /> </p>
 
-- 🔭 I’m currently working on [India Blockchain Summit](https://www.indiablockchainsummit.in/)
+- 🔭 I’m currently working on [Invest Web3 Forum](https://www.investweb3forum.com/)
 
 - 🌱 I’m currently learning **AI and ML**
 
