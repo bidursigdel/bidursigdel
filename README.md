@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Brihaspati%20Sigdel&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20CEO%20%40%20BidHex%20%7C%20Senior%20Software%20Engineer%20%7C%20Builder&descSize=16&descAlignY=58&descColor=a0aec0" width="100%" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Brihaspati%20Sigdel&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20CEO%20%40%20BidHex%20%7C%20Senior%20Software%20Engineer%20%7C%20Builder&descSize=16&descAlignY=58&descColor=a0aec0" width="100%" /> -->
 
 <br/>
 
