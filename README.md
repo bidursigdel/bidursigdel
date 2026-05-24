@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Brihaspati%20Sigdel&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20CEO%20@%20BidHex%20%7C%20Senior%20Software%20Engineer%20%7C%20Builder&descSize=16&descAlignY=58&descColor=a0aec0&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Brihaspati%20Sigdel&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20CEO%20%40%20BidHex%20%7C%20Senior%20Software%20Engineer%20%7C%20Builder&descSize=16&descAlignY=58&descColor=a0aec0" width="100%" />
 
 <br/>
 
@@ -180,12 +180,12 @@ Music collaboration networking platform connecting artists and creators — enab
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bidursigdel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bidursigdel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bidursigdel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=6c63ff&icon_color=6c63ff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bidursigdel&layout=compact&theme=tokyonight&hide_border=true&title_color=6c63ff" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bidursigdel&theme=tokyonight&hide_border=true&background=0d1117&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bidursigdel&theme=tokyonight&hide_border=true&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff" />
 
 </div>
 
